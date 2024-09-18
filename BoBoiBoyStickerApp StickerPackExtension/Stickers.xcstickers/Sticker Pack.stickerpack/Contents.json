@@ -1,9 +1,23 @@
 {
   "info" : {
-    "version" : 1,
-    "author" : "xcode"
+    "author" : "xcode",
+    "version" : 1
   },
   "properties" : {
-    "grid-size" : "regular"
-  }
+    "grid-size" : "large"
+  },
+  "stickers" : [
+    {
+      "filename" : "pinky-min.sticker"
+    },
+    {
+      "filename" : "friends-min.sticker"
+    },
+    {
+      "filename" : "blacky-min.sticker"
+    },
+    {
+      "filename" : "yellowy-min.sticker"
+    }
+  ]
 }
